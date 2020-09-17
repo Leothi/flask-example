@@ -1,4 +1,4 @@
-# Arquitetura FastAPI
-Projeto simples com arquitetura completa com exceções personalizadas, middleware e logging.
+# Arquitetura Flask
+Projeto simples com arquitetura completa e logging.
 
 Para entendimento da biblioteca e treinamento de suas features.
